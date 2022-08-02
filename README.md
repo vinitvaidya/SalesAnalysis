@@ -1,4 +1,4 @@
-An interactive report for Global Superstore Sales.
+An interactive report for Global Superstore Sales created in Power BI.
 
 Datasets used:
 1)  https://www.kaggle.com/datasets/shekpaul/global-superstore (contains 3 tables: Orders, People, Returns)
